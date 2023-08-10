@@ -1,4 +1,4 @@
-<h1 align="center"> Exercicio Stream</h1>
+<h1 align="center"> Exercicio Expressões Lambdas</h1>
 <p align="justify"> Fazer um programa para ler os dados (nome, email e salário)de funcionários a partir de um arquivo em formato .csv. 
  Em seguida mostrar, em ordem alfabética, o email dos funcionários cujo salário seja superior a um dado valor fornecido pelo usuário.<br /> </p>
 
